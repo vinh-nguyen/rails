@@ -1,4 +1,5 @@
 ## Welcome to Rails
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/vinh-nguyen/rails?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 Rails is a web-application framework that includes everything needed to
 create database-backed web applications according to the
